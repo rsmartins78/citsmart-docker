@@ -2,7 +2,7 @@
 
 Este projeto é um baseado no projeto original disponível em: <https://hub.docker.com/r/citsmart/itsm_community/>
 
-![Login_Citsmart](https://uploaddeimagens.com.br/imagens/selection_097-png)
+![Login_Citsmart](https://uploaddeimagens.com.br/images/001/890/926/original/Selection_097.png?1549908123)
 
 ### Como usar
 
